@@ -1,0 +1,588 @@
+[22:23:48] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:23:49] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:23:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:23:49] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[22:23:49] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_241, running on Mac OS X:x86_64:10.11.6, installed at /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+[22:23:49] [main/WARN]: The coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin) is not signed!
+[22:23:49] [main/WARN]: The coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin) is not signed!
+[22:23:49] [main/INFO]: Searching /Users/jackcoker/Library/Application Support/technic/modpacks/1122-forge-142332659/mods for mods
+[22:23:49] [main/WARN]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:23:49] [main/WARN]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[22:23:49] [main/INFO]: Loading tweaker net.minecraftxray.loader.XRayTweaker from XRay-58-vDLB.jar
+[22:23:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:49] [main/INFO]: Loading tweak class name net.minecraftxray.loader.XRayTweaker
+[22:23:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:23:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:23:49] [main/INFO]: Calling tweak class net.minecraftxray.loader.XRayTweaker
+[22:23:49] [main/INFO]: XRayTweaker v58
+[22:23:49] [main/INFO]: Detected Minecraft version: 1.12.2
+[22:23:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:23:52] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:23:52] [main/ERROR]: FML appears to be missing any signature data. This is not a good thing
+[22:23:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:23:52] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:23:52] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:99]: Successfully Registered Transformer
+[22:23:53] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[22:23:53] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:292]: [Micdoodle8Core]: Patching game...
+[22:23:53] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:23:54] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:23:54] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:23:54] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:23:56] [main/INFO]: [net.minecraft.client.main.Main:main:55]: Completely ignored arguments: [--icon, /Users/jackcoker/Library/Application Support/technic/assets/packs/1122-forge-142332659/icon.png, --title, 1.12.2 Forge 14.23.5.2847]
+[22:23:56] [Client thread/INFO]: Setting user: Bobdahobo457
+[22:24:03] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:24:03] [Client thread/INFO]: LWJGL Version: 2.9.2
+[22:24:04] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 10.11.6
+	Java Version: 1.8.0_241, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 7377216008 bytes (7035 MB) / 7516192768 bytes (7168 MB) up to 7516192768 bytes (7168 MB)
+	JVM Flags: 4 total; -Xms7168m -Xmx7168m -XX:+UseG1GC -XX:MaxGCPauseMillis=4
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+MicdoodlePlugin (MicdoodleCore-1.12.2-4.0.2.280.jar)
+  micdoodle8.mods.miccore.MicdoodleTransformer
+	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-10.14.74' Renderer: 'Intel HD Graphics 4000 OpenGL Engine'
+[22:24:04] [Client thread/INFO]: MinecraftForge v14.23.5.2847 Initialized
+[22:24:04] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:24:04] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:24:05] [Client thread/INFO]: Replaced 1227 ore ingredients
+[22:24:05] [Client thread/INFO]: Searching /Users/jackcoker/Library/Application Support/technic/modpacks/1122-forge-142332659/mods for mods
+[22:24:06] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 472877248 nanos
+[22:24:08] [Client thread/INFO]: Forge Mod Loader has identified 30 mods to load
+[22:24:08] [Client thread/INFO]: FML has found a non-mod file Additional-Pipes-Mod-1.12.2.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[22:24:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, craftablesaddles, galacticraftplanets, galacticraftcore, harvestcraft, waila, jei, keywizard, mantle, mousetweaks, mysticalwildlife, portable_lighting, railcraft, simpletcon, simplecore, tconstruct, treeharvester] at CLIENT
+[22:24:08] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge, micdoodlecore, buildcraftcompat, buildcraftbuilders, buildcraftcore, buildcraftenergy, buildcraftfactory, buildcraftlib, buildcraftrobotics, buildcraftsilicon, buildcrafttransport, craftablesaddles, galacticraftplanets, galacticraftcore, harvestcraft, waila, jei, keywizard, mantle, mousetweaks, mysticalwildlife, portable_lighting, railcraft, simpletcon, simplecore, tconstruct, treeharvester] at SERVER
+[22:24:11] [Client thread/INFO]: Skipping Pulse chiselIntegration; missing dependency: chisel
+[22:24:11] [Client thread/INFO]: Skipping Pulse chiselsandbitsIntegration; missing dependency: chiselsandbits
+[22:24:11] [Client thread/INFO]: Skipping Pulse craftingtweaksIntegration; missing dependency: craftingtweaks
+[22:24:11] [Client thread/INFO]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[22:24:11] [Client thread/INFO]: Skipping Pulse quarkIntegration; missing dependency: quark
+[22:24:11] [Client thread/INFO]: Preparing to take over the world
+[22:24:14] [Client thread/DEBUG_REPORT]: Detected texture reload
+[22:24:14] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:BuildCraft Builders, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BuildCraft Energy, FMLFileResourcePack:BuildCraft Factory, FMLFileResourcePack:BuildCraft Lib, FMLFileResourcePack:BuildCraft Robotics, FMLFileResourcePack:BuildCraft Silicon, FMLFileResourcePack:BuildCraft Transport, FMLFileResourcePack:Craftable Saddles, FMLFileResourcePack:Galacticraft Planets, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Waila, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:Keyboard Wizard, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mouse Tweaks, FMLFileResourcePack:Mystical Wildlife, FMLFileResourcePack:Portable Lighting, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Simple Tinkers Construct Addon, FMLFileResourcePack:SimpleCore API, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Tree Harvester
+[22:24:15] [Client thread/DEBUG_REPORT]: Detected texture reload
+[22:24:15] [Client thread/INFO]: Processing ObjectHolder annotations
+[22:24:15] [Client thread/INFO]: Found 1237 ObjectHolder annotations
+[22:24:15] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[22:24:15] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[22:24:16] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[22:24:16] [Forge Version Check/INFO]: [buildcraftcompat] Starting version check at https://mod-buildcraft.com/version/versions-compat.json
+[22:24:16] [Client thread/INFO]: 
+[22:24:16] [Client thread/INFO]: Starting BuildCraft 7.99.24.6
+[22:24:16] [Client thread/INFO]: Copyright (c) the BuildCraft team, 2011-2018
+[22:24:16] [Client thread/INFO]: https://www.mod-buildcraft.com
+[22:24:16] [Client thread/INFO]: Detailed Build Information:
+[22:24:16] [Client thread/INFO]:   Branch HEAD
+[22:24:16] [Client thread/INFO]:   Commit 28b89ad8936f9d6c1ad00a7491453f68fc683232
+[22:24:16] [Client thread/INFO]:     Update Localisation, changelog and version for 7.99.24.6
+[22:24:16] [Client thread/INFO]:     committed by AlexIIL
+[22:24:16] [Client thread/INFO]: 
+[22:24:16] [Client thread/INFO]: Loaded Modules:
+[22:24:16] [Client thread/INFO]:   - lib
+[22:24:16] [Client thread/INFO]:   - core
+[22:24:16] [Client thread/INFO]:   - builders
+[22:24:16] [Client thread/INFO]:   - energy
+[22:24:16] [Client thread/INFO]:   - factory
+[22:24:16] [Client thread/INFO]:   - robotics
+[22:24:16] [Client thread/INFO]:   - silicon
+[22:24:16] [Client thread/INFO]:   - transport
+[22:24:16] [Client thread/INFO]:   - compat
+[22:24:16] [Client thread/INFO]: Missing Modules:
+[22:24:16] [Client thread/INFO]: 
+[22:24:17] [Forge Version Check/INFO]: [buildcraftcompat] Found status: AHEAD Target: null
+[22:24:17] [Forge Version Check/INFO]: [buildcraftlib] Starting version check at https://mod-buildcraft.com/version/versions.json
+[22:24:17] [Forge Version Check/INFO]: [buildcraftlib] Found status: AHEAD Target: null
+[22:24:17] [Forge Version Check/INFO]: [mousetweaks] Starting version check at http://play.sourceruns.org/yalter/MouseTweaks/update.json
+[22:24:18] [Client thread/INFO]: [debugger] Not a dev environment!
+[22:24:19] [Forge Version Check/INFO]: [mousetweaks] Found status: BETA Target: null
+[22:24:19] [Forge Version Check/INFO]: [railcraft] Starting version check at http://www.railcraft.info/railcraft_versions
+[22:24:19] [Forge Version Check/INFO]: [railcraft] Found status: BETA Target: null
+[22:24:19] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:24:19] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[22:24:19] [Forge Version Check/INFO]: [forge] Found status: OUTDATED Target: 14.23.5.2854
+[22:24:19] [Forge Version Check/INFO]: [simplecore] Starting version check at https://raw.githubusercontent.com/Sinhika/SimpleCore/1.12/update.json
+[22:24:20] [Forge Version Check/INFO]: [simplecore] Found status: OUTDATED Target: 1.12.2-1.7.3.4
+[22:24:20] [Forge Version Check/INFO]: [buildcraftcore] Starting version check at https://mod-buildcraft.com/version/versions.json
+[22:24:20] [Forge Version Check/INFO]: [buildcraftcore] Found status: AHEAD Target: null
+[22:24:23] [Client thread/INFO]: 
+[22:24:23] [Client thread/INFO]: Starting BuildCraftCompat 7.99.24.6
+[22:24:23] [Client thread/INFO]: Copyright (c) the BuildCraft team, 2011-2017
+[22:24:23] [Client thread/INFO]: https://www.mod-buildcraft.com
+[22:24:23] [Client thread/INFO]: Detailed Build Information:
+[22:24:23] [Client thread/INFO]:   Branch 8.0.x-1.12.2
+[22:24:23] [Client thread/INFO]:   Commit 3ce2fe3c5d1a541dcc0db3285bdb840e44615cde
+[22:24:23] [Client thread/INFO]:     Update BC for 7.99.24.6
+[22:24:23] [Client thread/INFO]:     committed by AlexIIL
+[22:24:23] [Client thread/INFO]: 
+[22:24:23] [Client thread/INFO]: [compat] Module list:
+[22:24:23] [Client thread/INFO]: [compat]   x forestry (It cannot load)
+[22:24:23] [Client thread/INFO]: [compat]   x theoneprobe (It cannot load)
+[22:24:23] [Client thread/INFO]: [compat]   x crafttweaker (It cannot load)
+[22:24:26] [Client thread/INFO]: Galacticraft oil is not default, issues may occur.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `apple`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `wheat`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `carrot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `melon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_beef`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_chicken`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_porkchop`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_rabbit`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_mutton`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_cod`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cooked_salmon`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `clownfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pufferfish`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `mushroom_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `bread`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `cookie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `baked_potato`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pumpkin_pie`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rabbit_stew`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:31] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `beetroot_soup`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:32] [Client thread/INFO]: Let's do some keyboard magic!
+[22:24:32] [Client thread/INFO]: OBJLoader: Domain portable_lighting has been added.
+[22:24:38] [Client thread/INFO]: Module failed prerequisite check, disabling: railcraft:ic2
+[22:24:38] [Client thread/INFO]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: IC2 not detected
+[22:24:38] [Client thread/INFO]: Module failed prerequisite check, disabling: railcraft:forestry
+[22:24:38] [Client thread/INFO]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Forestry not detected
+[22:24:38] [Client thread/INFO]: Module failed prerequisite check, disabling: railcraft:thaumcraft
+[22:24:38] [Client thread/INFO]: mods.railcraft.api.core.IRailcraftModule$MissingPrerequisiteException: Thaumcraft not detected
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:core +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:automation +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:carts +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:charge +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:chunk_loading +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:emblem +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:factory +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:magic +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:redstone_flux +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:resources +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:seasonal +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:signals +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:steam +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:structures +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:extras +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:locomotives +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:routing +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|abandoned +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|electric +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|high_speed +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|high_speed_electric +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|reinforced +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:tracks|strap_iron +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:train +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:transport +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:world +
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:forestry -
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:ic2 -
+[22:24:38] [Client thread/INFO]: Module performing stage CONSTRUCTION: railcraft:thaumcraft -
+[22:24:38] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:core +
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `commandblock_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:commandblock_minecart with railcraft:cart_command_block.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:minecart with railcraft:cart_basic.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `chest_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:chest_minecart with railcraft:cart_chest.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `furnace_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:furnace_minecart with railcraft:cart_furnace.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tnt_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:tnt_minecart with railcraft:cart_tnt.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `hopper_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:hopper_minecart with railcraft:cart_hopper.
+[22:24:39] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `spawner_minecart`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:39] [Client thread/INFO]: Successfully substituted minecraft:spawner_minecart with railcraft:cart_spawner.
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:automation +
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:carts +
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:charge +
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:chunk_loading +
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:emblem +
+[22:24:39] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:factory +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:magic +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:redstone_flux +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:resources +
+[22:24:40] [Client thread/WARN]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[22:24:40] [Client thread/WARN]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[22:24:40] [Client thread/WARN]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[22:24:40] [Client thread/WARN]: defineId called for: class mods.railcraft.common.carts.EntityTunnelBore from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:seasonal +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:signals +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:steam +
+[22:24:40] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:structures +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:extras +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:locomotives +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:routing +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|abandoned +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|electric +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|high_speed +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|high_speed_electric +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|reinforced +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:tracks|strap_iron +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:train +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:transport +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:world +
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:forestry -
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:ic2 -
+[22:24:41] [Client thread/INFO]: Module performing stage PRE_INIT: railcraft:thaumcraft -
+[22:24:43] [Client thread/INFO]: SimpleCore API Loading...
+[22:24:43] [Client thread/INFO]: Loading Settings...
+[22:24:43] [Client thread/INFO]: Settings loaded successfully
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.craftingstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.stenciltable`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partbuilder`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.patternchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.partchest`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolstation`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.toolforge`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_controller`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_component`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.faucet`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_table`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.casting_basin`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.smeltery_drain`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.seared_furnace`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:43] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.tinker_tank`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:44] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.item_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:44] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.drying_rack`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:44] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.wooden_hopper`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:44] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `tconstruct.slime_channel`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:24:44] [Client thread/INFO]: Applying holder lookups
+[22:24:44] [Client thread/INFO]: Holder lookups applied
+[22:24:44] [Client thread/INFO]: Galacticraft: activating Tinker's Construct compatibility.
+[22:24:44] [Client thread/INFO]: Applying holder lookups
+[22:24:44] [Client thread/INFO]: Holder lookups applied
+[22:24:44] [Client thread/INFO]: Applying holder lookups
+[22:24:44] [Client thread/INFO]: Holder lookups applied
+[22:24:45] [Client thread/INFO]: Applying holder lookups
+[22:24:45] [Client thread/INFO]: Holder lookups applied
+[22:24:45] [Client thread/INFO]: Injecting itemstacks
+[22:24:45] [Client thread/INFO]: Itemstack injection complete
+[22:24:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:24:45] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[22:24:45] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:24:46] [Thread-4/INFO]: OpenAL initialized.
+[22:24:46] [Sound Library Loader/INFO]: Sound engine started
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/arrow.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/arrow_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/arrow_shaft.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/axe_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/battlesign.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/binding.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/bolt.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:parts/bolt_core.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/bow_limb.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/bow_string.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/broad_axe_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/broadsword.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/cleaver.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/cross_guard.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/crossbow.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/excavator.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/excavator_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/fletching.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/frypan.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/hammer.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/hammer_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/hand_guard.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/hatchet.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/kama.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/kama_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/knife_blade.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/large_plate.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/large_sword_blade.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/longbow.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/longsword.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/lumberaxe.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/mattock.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:moms_spaghetti.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/pan_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/pick_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/pickaxe.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/rapier.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/scythe.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/scythe_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/shard.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/sharpening_kit.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shortbow.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shovel.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/shovel_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load multimodel tconstruct:tools/shuriken.tcon#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/sign_head.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/sword_blade.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/tool_rod.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/tough_binding.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/tough_tool_rod.tmat#inventory
+[22:24:54] [Client thread/ERROR]: Could not load material model tconstruct:parts/wide_guard.tmat#inventory
+[22:24:56] [Client thread/INFO]: Max texture size: 16384
+[22:25:08] [Client thread/INFO]: Created: 4096x2048 textures-atlas
+[22:25:18] [Client thread/WARN]: defineId called for: class mods.railcraft.common.carts.CartBaseFiltered from class mods.railcraft.common.plugins.forge.DataManagerPlugin
+[22:25:22] [Client thread/INFO]: Fluid ingredient factory loaded
+[22:25:22] [Client thread/INFO]: Remaining item shaped recipe factory loaded
+[22:25:22] [Client thread/INFO]: Remaining item shaped recipe factory loaded
+[22:25:25] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `slime`, expected `tconstruct`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:25] [Client thread/INFO]: Applying holder lookups
+[22:25:25] [Client thread/INFO]: Holder lookups applied
+[22:25:26] [Client thread/INFO]: Created: 256x128 textures-atlas
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc treasure chest`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air distributor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air collector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen pipe`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock frame`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc refinery`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc nasa workbench`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc deconstructor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc fuel loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc landing pad full`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc dummy block`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air sealer`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc dungeon boss spawner`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc buggy fueler single`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo loader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc cargo unloader`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc parachest tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar panel`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc radio telescope`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc magnetic crafting table`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc energy storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc coal generator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric furnace`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc switchable aluminum wire`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc fallen meteor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc electric ingot compressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc circuit fabricator`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc air lock controller`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen storage module`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc oxygen decompressor`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc space station thruster`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc arc lamp`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc view screen`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc panel lighting`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc telemetry unit`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc painter`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc fluid tank`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc player detector`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc platform`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc emergency post`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:28] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc null tile`, expected `galacticraftcore`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc slimeling egg`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 2 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc planet terraformer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc cryogenic chamber`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc gas liquefier`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc methane synthesizer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc water electrolyzer`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc mars dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc launch controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam reflector`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc beam receiver`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc fake short range telepad`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base builder`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc astro miner base`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus spout`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc venus dungeon spawner`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc tier 3 treasure chest`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc geothermal generator`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc crashed probe`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array module`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc solar array controller`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `gc laser turret`, expected `galacticraftplanets`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/INFO]: Registering drops for shadedGarden.
+[22:25:29] [Client thread/INFO]: Registering drops for tropicalGarden.
+[22:25:29] [Client thread/INFO]: Registering drops for windyGarden.
+[22:25:29] [Client thread/INFO]: Registering drops for frostGarden.
+[22:25:29] [Client thread/INFO]: Registering drops for aridGarden.
+[22:25:29] [Client thread/INFO]: Registering drops for soggyGarden.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pamapiary`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pammarket`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pamshippingbin`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pampresser`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pamgroundtrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `pamwatertrap`, expected `harvestcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] A call to initialize, entry point: FORGE.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Reflecting GuiContainer...
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Detected obfuscation: FORGE.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Success.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Minecraft Forge is installed.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] LiteLoader is not installed.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Using Forge for the mod operation.
+[22:25:29] [Client thread/INFO]: [yalter.mousetweaks.Logger:Log:6]: [Mouse Tweaks] Mouse Tweaks has been initialized.
+[22:25:29] [Client thread/INFO]: Module performing stage INIT: railcraft:core +
+[22:25:30] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:30] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `golden_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:30] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `detector_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:30] [Client thread/WARN]: Potentially Dangerous alternative prefix `minecraft` for name `activator_rail`, expected `railcraft`. This could be a intended override, but in most cases indicates a broken mod.
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:automation +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:carts +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:charge +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:chunk_loading +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:emblem +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:factory +
+[22:25:30] [Client thread/WARN]: Tried, but failed to register thaumcraft:alumentum as a Blast Furnace Fuel recipe. Reason: Input was null or empty.
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:magic +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:redstone_flux +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:resources +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:seasonal +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:signals +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:steam +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:structures +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:extras +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:locomotives +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:routing +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|abandoned +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|electric +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|high_speed +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|high_speed_electric +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|reinforced +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:tracks|strap_iron +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:train +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:transport +
+[22:25:30] [Client thread/INFO]: Module performing stage INIT: railcraft:world +
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 60 called mine_copper
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 15 called mine_gold
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 40 called mine_iron
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 30 called mine_lead
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 40 called mine_nickel
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 20 called mine_silver
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 50 called mine_tin
+[22:25:31] [Client thread/INFO]: Registered Mine Ore Generator at depth 30 called mine_zinc
+[22:25:32] [Client thread/INFO]: Module performing stage INIT: railcraft:forestry -
+[22:25:32] [Client thread/INFO]: Module performing stage INIT: railcraft:ic2 -
+[22:25:32] [Client thread/INFO]: Module performing stage INIT: railcraft:thaumcraft -
+[22:25:32] [Client thread/INFO]: Injecting itemstacks
+[22:25:32] [Client thread/INFO]: Itemstack injection complete
+[22:25:33] [Client thread/WARN]: [lib.guide.loader] Unable to load guide page 'buildcraftcore:item/volume_box' (full path = 'buildcraftcore:compat/buildcraft/guide/en_us/item/volume_box.md') because we couldn't find any of the valid paths in any resource pack!
+[22:25:33] [Client thread/WARN]: [lib.guide.loader] Unable to load guide page 'buildcraftsilicon:item/plug_facade' (full path = 'buildcraftsilicon:compat/buildcraft/guide/en_us/item/plug_facade.md') because we couldn't find any of the valid paths in any resource pack!
+[22:25:33] [Client thread/WARN]: [lib.guide.loader.xml] Unknown recipe type null - must be one of [crafting, assembling, smelting]
+[22:25:33] [Client thread/WARN]: [lib.guide.loader] Unable to load guide page 'buildcraftcore:item/marker_volume' (full path = 'buildcraftcore:compat/buildcraft/guide/en_us/item/marker_volume.md') because we couldn't find any of the valid paths in any resource pack!
+[22:25:33] [Client thread/WARN]: [lib.guide.loader] Unable to load guide page 'buildcraftfactory:block/autoworkbench_item' (full path = 'buildcraftfactory:compat/buildcraft/guide/en_us/block/autoworkbench_item.md') because we couldn't find any of the valid paths in any resource pack!
+[22:25:33] [Client thread/WARN]: [lib.guide.loader] Unable to load guide page 'buildcraftcore:block/engine_creative' (full path = 'buildcraftcore:compat/buildcraft/guide/en_us/block/engine_creative.md') because we couldn't find any of the valid paths in any resource pack!
+[22:25:34] [Client thread/INFO]: [lib.guide] Squished buildcraftsilicon:plug_facade and all of it's 1707 variants down into one page entry.
+[22:25:34] [Client thread/INFO]: [lib.search] Max suffix length is 50
+[22:25:35] [Client thread/INFO]: [lib.search]   'tile.railcraft.post.metal.platform.light_blue.name'
+[22:25:35] [Client thread/INFO]: [lib.search]   'tile.railcraft.post.metal.platform.light_gray.name'
+[22:25:35] [Client thread/WARN]: [lib.gui.cfg] Failed to read the config file! /Users/jackcoker/Library/Application Support/technic/modpacks/1122-forge-142332659/config/buildcraft/gui.json
+[22:25:36] [Client thread/INFO]: Started adding oredict melting recipes
+[22:25:38] [Client thread/INFO]: Oredict melting recipes finished in 2492.940171 ms
+[22:25:39] [Client thread/INFO]: Galacticraft: activating Tinker's Construct compatibility features.
+[22:25:39] [Client thread/INFO]: Galacticraft: activating BuildCraft Transport (Pipes) compatibility features.
+[22:25:39] [Client thread/INFO]: Galacticraft: activating WAILA compatibility features.
+[22:25:39] [Client thread/WARN]: Controls gui override enabled, this may cause problems with other mods
+[22:25:39] [Client thread/INFO]: Adding Standard Worldspike Fuel: [railcraft:dust#0]=2.0
+[22:25:39] [Client thread/INFO]: Adding Standard Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[22:25:39] [Client thread/INFO]: Adding Standard Worldspike Fuel: [railcraft:dust#6]=8.0
+[22:25:39] [Client thread/INFO]: Adding Standard Worldspike Fuel: [railcraft:dust#7]=12.0
+[22:25:39] [Client thread/INFO]: Adding Personal Worldspike Fuel: [railcraft:dust#0]=2.0
+[22:25:39] [Client thread/INFO]: Adding Personal Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[22:25:39] [Client thread/INFO]: Adding Personal Worldspike Fuel: [railcraft:dust#6]=8.0
+[22:25:39] [Client thread/INFO]: Adding Personal Worldspike Fuel: [railcraft:dust#7]=12.0
+[22:25:39] [Client thread/INFO]: Adding Passive Worldspike Fuel: [railcraft:dust#0]=2.0
+[22:25:39] [Client thread/INFO]: Adding Passive Worldspike Fuel: [minecraft:ender_pearl]=4.0
+[22:25:39] [Client thread/INFO]: Adding Passive Worldspike Fuel: [railcraft:dust#6]=8.0
+[22:25:39] [Client thread/INFO]: Adding Passive Worldspike Fuel: [railcraft:dust#7]=12.0
+[22:25:39] [Client thread/INFO]: Blacklisting Cargo: [minecraft:cyan_shulker_box, minecraft:light_blue_shulker_box, minecraft:lime_shulker_box, minecraft:orange_shulker_box, minecraft:silver_shulker_box, minecraft:purple_shulker_box, minecraft:black_shulker_box, minecraft:gray_shulker_box, minecraft:red_shulker_box, minecraft:magenta_shulker_box, minecraft:white_shulker_box, minecraft:yellow_shulker_box, minecraft:blue_shulker_box, minecraft:brown_shulker_box, minecraft:green_shulker_box, minecraft:pink_shulker_box]
+[22:25:39] [Client thread/INFO]: Blacklisting Cargo: [minecraft:milk_bucket, minecraft:water_bucket, minecraft:lava_bucket]
+[22:25:39] [Client thread/INFO]: Blacklisting Cargo: [forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled, forge:bucketfilled]
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:.*bat((pack)|(tery))
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:.*bat((pack)|(tery))
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:.*_crystal
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:.*_crystal
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:jetpack_electric
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:jetpack_electric
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:energy_pack
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:energy_pack
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:lappack
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:lappack
+[22:25:39] [Client thread/ERROR]: Invalid list entry while Blacklisting Cargo: ic2:te#68-75
+[22:25:39] [Client thread/ERROR]: java.lang.IllegalArgumentException: Invalid Item while parsing config line: ic2:te#68-75
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:core +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:automation +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:carts +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:charge +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:chunk_loading +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:emblem +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:factory +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:magic +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:redstone_flux +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:resources +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:seasonal +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:signals +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:steam +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:structures +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:extras +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:locomotives +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:routing +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|abandoned +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|electric +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|high_speed +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|high_speed_electric +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|reinforced +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:tracks|strap_iron +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:train +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:transport +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:world +
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:forestry -
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:ic2 -
+[22:25:39] [Client thread/INFO]: Module performing stage POST_INIT: railcraft:thaumcraft -
+[22:25:40] [Client thread/INFO]: SimpleCore API Loading Complete!
+[22:25:40] [Client thread/INFO]: Starting JEI...
+[22:25:41] [Client thread/INFO]: Registering recipe categories...
+[22:25:41] [Client thread/INFO]: Loaded JEI mods: [factory, energy, silicon]
+[22:25:41] [Client thread/INFO]: Registering recipe categories took 304.7 ms
+[22:25:41] [Client thread/INFO]: Registering mod plugins...
+[22:25:43] [Client thread/INFO]: Registering mod plugins took 1.195 s
+[22:25:43] [Client thread/INFO]: Building recipe registry...
+[22:25:43] [Client thread/INFO]: Building recipe registry took 846.6 ms
+[22:25:43] [Client thread/INFO]: Building ingredient list...
+[22:25:44] [Client thread/INFO]: Building ingredient list took 378.1 ms
+[22:25:44] [Client thread/INFO]: Building ingredient filter...
+[22:25:53] [Client thread/INFO]: Building ingredient filter took 9.472 s
+[22:25:53] [Client thread/INFO]: Building bookmarks...
+[22:25:53] [Client thread/INFO]: Building bookmarks took 14.83 ms
+[22:25:53] [Client thread/INFO]: Building runtime...
+[22:25:54] [Client thread/INFO]: Building runtime took 696.5 ms
+[22:25:54] [Client thread/INFO]: Optimizing memory usage...
+[22:25:55] [Client thread/INFO]: Optimizing memory usage took 730.0 ms
+[22:25:55] [Client thread/INFO]: Starting JEI took 15.37 s
+[22:25:55] [Client thread/INFO]: Starting Waila...
+[22:25:55] [Client thread/INFO]: Gathering annotated plugins...
+[22:25:55] [Client thread/INFO]: Gathering wrapped IMC plugins...
+[22:25:55] [Client thread/INFO]: Registering plugins...
+[22:25:55] [Client thread/INFO]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[22:25:55] [Client thread/INFO]: Registering plugin at mcp.mobius.waila.addons.capability.PluginCapability
+[22:25:55] [Client thread/INFO]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[22:25:55] [Client thread/INFO]: Registering plugin at buildcraft.compat.module.waila.HWYLAPlugin
+[22:25:55] [Client thread/INFO]: Registering plugin at slimeknights.tconstruct.plugin.waila.WailaRegistrar
+[22:25:56] [Client thread/INFO]: Starting Waila took 532.5 ms
+[22:26:03] [Client thread/INFO]: Forge Mod Loader has successfully loaded 30 mods
+[22:26:03] [Client thread/WARN]: Skipping bad option: lastServer:
+[22:27:01] [Client thread/INFO]: Stopping!
+[22:27:01] [Client thread/INFO]: SoundSystem shutting down...
+[22:27:02] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
